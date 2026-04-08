@@ -1,4 +1,4 @@
-# SQL Autotest Project
+# SQL Autotest Project.
 
 This project is designed to automate the testing of a simple SQLite database. The Python script `sql_autotest.py` creates a database, populates it with test user data, and then verifies the data using SQL queries. The script uses the `unittest` library to ensure that the database contains the expected information
 
